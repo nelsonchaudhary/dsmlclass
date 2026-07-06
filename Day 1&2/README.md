@@ -1,10 +1,11 @@
-git init
-git add ,
-git commit -m "comment"
-git push -u origin main
+## Day 1
+- git init
+- git add .
+- git commit -m "comment"
+- git push -u origin main
 
-git branch <branch name>
-git checkout <branch name>
-git branch
-git branch -D <branch name>
-git checkout -b <branch name>
+## Day 2
+- git branch
+- git checkout
+- git branch -D
+- git checkout -b
