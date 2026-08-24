@@ -1,0 +1,12 @@
+{
+    "next_id": 2,
+    "users": [
+        {
+            "user_id": 1,
+            "username": "admin",
+            "password": "admin123",
+            "role": "Admin",
+            "linked_employee_id": null
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "next_id": 4,
+    "customers": [
+        {
+            "customer_id": 2,
+            "name": "Utsav Shrestha",
+            "phone": "9812397096",
+            "email": "utsab123!@gmail.com",
+            "address": "USA",
+            "city": "California",
+            "postal_code": "0432",
+            "created_date": "2026-08-22"
+        }
+    ]
+}

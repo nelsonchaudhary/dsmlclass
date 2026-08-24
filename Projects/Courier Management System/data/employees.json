@@ -1,0 +1,29 @@
+{
+    "next_id": 3,
+    "employees": [
+        {
+            "employee_id": 1,
+            "name": "Ashim Shrestha",
+            "phone": "9800000000",
+            "email": "ram3131@gmail.com",
+            "address": "",
+            "department": "Delivery",
+            "salary": "30000000",
+            "designation": "Rider",
+            "joining_date": "2026-08-22",
+            "role": "DeliveryBoy"
+        },
+        {
+            "employee_id": 2,
+            "name": "Ashon",
+            "phone": "9869698787",
+            "email": "ashon11@gmail.com",
+            "address": "dharan",
+            "department": "Operating",
+            "salary": "8000000",
+            "designation": "senior operator",
+            "joining_date": "2026-08-22",
+            "role": "Operator"
+        }
+    ]
+}

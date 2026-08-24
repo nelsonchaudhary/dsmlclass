@@ -1,0 +1,45 @@
+{
+    "next_id": 3,
+    "parcels": [
+        {
+            "tracking_no": "TRK1001",
+            "customer_id": 2,
+            "sender_name": "Hari",
+            "receiver_name": "Utsav Shrestha",
+            "receiver_phone": "98912397096",
+            "pickup_address": "gwarko",
+            "destination_address": "USA",
+            "weight": 10.0,
+            "dimensions": "3",
+            "courier_type": "Express",
+            "insurance": "Yes",
+            "delivery_charge": 15000.0,
+            "booking_date": "2026-08-22",
+            "expected_delivery": "2026-08-08",
+            "status": "Delivered",
+            "assigned_delivery_boy": 1,
+            "delivery_otp": "1496",
+            "receiver_name_confirmed": "utsav"
+        },
+        {
+            "tracking_no": "TRK1002",
+            "customer_id": 1,
+            "sender_name": "roman",
+            "receiver_name": "jack",
+            "receiver_phone": "9811111111",
+            "pickup_address": "koteshwor",
+            "destination_address": "new road",
+            "weight": 5.0,
+            "dimensions": "3",
+            "courier_type": "Same Day",
+            "insurance": "No",
+            "delivery_charge": 500.0,
+            "booking_date": "2026-08-22",
+            "expected_delivery": "2026-12-12",
+            "status": "Delivered",
+            "assigned_delivery_boy": 1,
+            "delivery_otp": "6222",
+            "receiver_name_confirmed": "jack"
+        }
+    ]
+}

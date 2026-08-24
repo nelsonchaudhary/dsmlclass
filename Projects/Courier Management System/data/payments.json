@@ -1,0 +1,25 @@
+{
+    "next_id": 3,
+    "payments": [
+        {
+            "payment_id": 1,
+            "tracking_no": "TRK1001",
+            "amount": 15000.0,
+            "vat": 1950.0,
+            "total": 16950.0,
+            "method": "Cash",
+            "status": "Paid",
+            "payment_date": "2026-08-22"
+        },
+        {
+            "payment_id": 2,
+            "tracking_no": "TRK1002",
+            "amount": 500.0,
+            "vat": 65.0,
+            "total": 565.0,
+            "method": "Cash",
+            "status": "Refunded",
+            "payment_date": "2026-08-22"
+        }
+    ]
+}
